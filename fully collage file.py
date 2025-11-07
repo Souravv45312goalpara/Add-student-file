@@ -45,9 +45,10 @@ while True:
     elif choice == '5':
         print("👋 Exiting program. Goodbye!")
         break
-    print("Goodbye")
+   
 
     else:
         print("❌ Invalid choice! Please select between 1-5.")
 
+ print("Goodbye")
 
